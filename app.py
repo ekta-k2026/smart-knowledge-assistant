@@ -14,7 +14,7 @@ if "chat_history" not in st.session_state:
 
 # -------------------- API --------------------
 load_dotenv()
-client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
+client = OpenAI(api_key=st.secrets["OPENAI_API_KEY"])
 
 # -------------------- UI --------------------
 st.title("Smart Knowledge Assistant 🤖")
