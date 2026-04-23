@@ -80,7 +80,7 @@ def load_data():
     documents = []
 
     for filename in os.listdir("Data"):
-        with open(f"data/{filename}", "r") as file:
+        with open(f"Data/{filename}", "r") as file:
             content = file.read()
             sentences = content.split(".")
 
