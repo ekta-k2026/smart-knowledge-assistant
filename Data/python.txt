@@ -1,0 +1,2 @@
+Python is a programming language.
+It is widely used in AI and data science.

@@ -1,0 +1,5 @@
+Artificial Intelligence is a field of computer science.
+Machine Learning is a subset of AI.
+Deep Learning uses neural networks.
+SQL is used for managing and querying databases.
+Python is widely used in AI and data science.

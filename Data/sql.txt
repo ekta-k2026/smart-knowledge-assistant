@@ -1,0 +1,3 @@
+SQL is used for managing and querying databases.
+Databases store structured data in an organized way.
+SQL helps retrieve and manipulate this structured data.
